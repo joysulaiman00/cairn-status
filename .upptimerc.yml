@@ -11,4 +11,3 @@ sites:
 
 status-website:
   name: Cairn University System Status
-  baseUrl: /cairn-status
