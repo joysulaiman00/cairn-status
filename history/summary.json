@@ -22,18 +22,20 @@
     "url": "https://elearning.cairn.edu",
     "icon": "https://icons.duckduckgo.com/ip3/elearning.cairn.edu.ico",
     "slug": "cairn-e-learning",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 456,
-    "timeDay": 681,
-    "timeWeek": 462,
-    "timeMonth": 456,
-    "timeYear": 456,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.51%",
+    "uptimeDay": "77.99%",
+    "uptimeWeek": "96.86%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "99.51%",
+    "time": 458,
+    "timeDay": 628,
+    "timeWeek": 476,
+    "timeMonth": 460,
+    "timeYear": 458,
+    "dailyMinutesDown": {
+      "2026-07-16": 317
+    }
   },
   {
     "name": "Cairn Self Service",
