@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 196,
-    "timeDay": 191,
-    "timeWeek": 220,
-    "timeMonth": 193,
+    "timeDay": 238,
+    "timeWeek": 229,
+    "timeMonth": 197,
     "timeYear": 196,
     "dailyMinutesDown": {}
   },
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/elearning.cairn.edu.ico",
     "slug": "cairn-e-learning",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.28%",
-    "uptimeYear": "99.64%",
-    "time": 449,
-    "timeDay": 338,
-    "timeWeek": 502,
-    "timeMonth": 421,
-    "timeYear": 449,
+    "uptimeYear": "99.65%",
+    "time": 448,
+    "timeDay": 380,
+    "timeWeek": 470,
+    "timeMonth": 415,
+    "timeYear": 448,
     "dailyMinutesDown": {
       "2026-07-16": 317
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 564,
-    "timeDay": 409,
-    "timeWeek": 809,
-    "timeMonth": 725,
-    "timeYear": 564,
+    "time": 559,
+    "timeDay": 229,
+    "timeWeek": 695,
+    "timeMonth": 716,
+    "timeYear": 559,
     "dailyMinutesDown": {}
   }
 ]
