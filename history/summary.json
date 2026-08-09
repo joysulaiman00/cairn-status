@@ -42,7 +42,7 @@
     "url": "https://selfservice.cairn.edu/SelfService/Home/LogIn?ReturnUrl=%2FSelfService%2F",
     "icon": "https://icons.duckduckgo.com/ip3/selfservice.cairn.edu.ico",
     "slug": "cairn-self-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
