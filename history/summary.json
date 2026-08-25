@@ -42,7 +42,7 @@
     "url": "https://selfservice.cairn.edu/SelfService/Home/LogIn?ReturnUrl=%2FSelfService%2F",
     "icon": "https://icons.duckduckgo.com/ip3/selfservice.cairn.edu.ico",
     "slug": "cairn-self-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -54,7 +54,8 @@
     "timeMonth": 1162,
     "timeYear": 753,
     "dailyMinutesDown": {
-      "2026-08-09": 64
+      "2026-08-09": 64,
+      "2026-08-25": 0
     }
   }
 ]
